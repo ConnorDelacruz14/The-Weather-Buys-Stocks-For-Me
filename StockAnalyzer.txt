@@ -1,0 +1,151 @@
+
+Apr-13-2022
+19:18:19
+Airbnb, Inc. (ABNB) 
+['171.85', '+11.74', '+7.33%', '04:00PM', '172.40', '+0.55', '+0.32%', '07:59PM']
+171.85
+
+Zoom Video Communications, Inc. (ZM) 
+['114.89', '+8.31', '+7.80%', '04:00PM', '114.60', '', '-0.29', '-0.25%', '07:59PM']
+114.89
+
+Weather in Irvine: 64°F
+Weather in Schaumburg: 39°F
+Better weather in: Irvine
+
+
+Apr-13-2022
+19:19:17
+Citigroup Inc. (C) 
+['50.15', '-0.19', '-0.38%', '04:02PM', '50.07', '-0.08', '-0.16%', '07:59PM']
+50.15
+
+Protagonist Therapeutics, Inc. (PTGX) 
+['25.52', '+1.96', '+8.32%', '04:00PM', '17.50', '', '-8.02', '-31.43%', '07:59PM']
+25.52
+
+Weather in Irvine: 64°F
+Weather in Schaumburg: 39°F
+Better weather in: Irvine
+
+
+Apr-14-2022
+10:57:54
+Sony Group Corporation (SONY) 
+['89.72', '-2.07', '-2.26%As', 'of', '', '01:48PM', '.', 'Market', 'open.']
+89.72
+
+Alibaba Group Holding Limited (BABA) 
+['96.27', '-3.76', '-3.76%As', 'of', '', '01:51PM', '.', 'Market', 'open.']
+96.27
+
+Weather in Irvine: 68°F
+Weather in Schaumburg: 38°F
+Better weather in: Irvine
+
+
+Apr-14-2022
+13:05:15
+Imperial Petroleum Inc. (IMPP) 
+['1.4600', '+0.1800', '+14.06%', '04:00PM', '1.4600', '0.00', '0.00%', '04:04PM']
+1.4600
+
+Baytex Energy Corp. (BTE.TO) 
+['6.36', '+0.53', '+9.09%As', 'of', '', '03:58PM', '.', 'Market', 'open.']
+6.36
+
+Weather in Irvine: 72°F
+Weather in Schaumburg: 42°F
+Better weather in: Irvine
+
+
+Apr-15-2022
+21:41:17
+USD/JPY (JPY=X) Live Rate, Chart & News - Yahoo Finance
+['126.4800', '+0.5900', '+0.4687%As', 'of', '', '03:27PM', 'BST.', 'Market', 'open.']
+126.4800
+
+MedAvail Holdings, Inc. (MDVL) 
+['2.4400', '+1.0000', '+69.44%', '04:00PM', '2.6000', '+0.16', '+6.56%', '07:59PM']
+2.4400
+
+Weather in Irvine: 61°F
+Weather in Schaumburg: 34°F
+Better weather in: Irvine
+
+
+Apr-15-2022
+21:45:10
+Nikkei 225 (^N225) Charts, Data & News - Yahoo Finance
+['27,093.19', '-78.81', '-0.29%', '03:15PM', 'JST']
+27,093.19
+
+Dow Jones Industrial Average (^DJI) Charts, Data & News - Yahoo Finance
+['34,451.23', '-113.36', '-0.33%', '04:48PM']
+34,451.23
+
+Weather in Irvine: 61°F
+Weather in Schaumburg: 34°F
+Better weather in: Irvine
+
+
+Apr-15-2022
+22:43:53
+Peloton Interactive, Inc. (PTON) 
+['23.87', '-1.16', '-4.63%', '04:00PM', '23.87', '0.00', '0.00%', '07:59PM']
+23.87
+
+USD/JPY (JPY=X) Live Rate, Chart & News - Yahoo Finance
+['126.4800', '+0.5900', '+0.4687%As', 'of', '', '03:27PM', 'BST.', 'Market', 'open.']
+126.4800
+
+Weather in Irvine: 60°F
+Weather in Schaumburg: 32°F
+Better weather in: Irvine
+
+
+Apr-16-2022
+14:11:50
+The Coca-Cola Company (KO) 
+['65.02', '+0.29', '+0.45%', '04:00PM', '65.00', '', '-0.02', '-0.03%', '07:59PM']
+65.02
+
+USD/JPY (JPY=X) Live Rate, Chart & News - Yahoo Finance
+['126.4800', '+0.5900', '+0.4687%As', 'of', '', '03:27PM', 'BST.', 'Market', 'open.']
+126.4800
+
+Weather in Irvine: 70°F
+Weather in Schaumburg: 43°F
+Better weather in: Irvine
+
+
+Apr-16-2022
+17:51:21
+Peloton Interactive, Inc. (PTON) 
+['23.87', '-1.16', '-4.63%', '04:00PM', '23.87', '0.00', '0.00%', '07:59PM']
+23.87
+
+USD/JPY (JPY=X) Live Rate, Chart & News - Yahoo Finance
+['126.4800', '+0.5900', '+0.4687%As', 'of', '', '03:27PM', 'BST.', 'Market', 'open.']
+126.4800
+
+Weather in Irvine: 68°F
+Weather in Schaumburg: 36°F
+Better weather in: Irvine
+
+
+Apr-16-2022
+17:52:49
+Caterpillar Inc. (CAT) 
+['227.81', '+9.54', '+4.37%', '04:00PM', '228.15', '+0.34', '+0.15%', '07:59PM']
+227.81
+
+Peloton Interactive, Inc. (PTON) 
+['23.87', '-1.16', '-4.63%', '04:00PM', '23.87', '0.00', '0.00%', '07:59PM']
+23.87
+
+Weather in Irvine: 68°F
+Weather in Schaumburg: 36°F
+Better weather in: Irvine, buying Caterpillar Inc. (CAT) 
+
+
